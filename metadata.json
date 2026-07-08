@@ -1,6 +1,0 @@
-{
-  "name": "SHOPPAY-Beauty",
-  "description": "A premium, fully-featured and responsive cosmetics e-commerce store specializing in beauty products with integrated cart, checkout, interactive business overview, and exportable vanilla source code.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
